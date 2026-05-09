@@ -90,7 +90,7 @@ pip install -r requirements.txt
 如果在当前实验环境中复现，也可以使用已有环境：
 
 ```bash
-conda run -n liuyang_aihigh pip install -r requirements.txt
+conda run -n main pip install -r requirements.txt
 ```
 
 配置模型 API：
